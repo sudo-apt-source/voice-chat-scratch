@@ -1,0 +1,9 @@
+{
+  "name": "scratch-webrtc-voice-chat",
+  "version": "1.0.0",
+  "description": "Voice chat for Scratch multiplayer",
+  "main": "server/server.js",
+  "dependencies": {
+    "socket.io": "^4.7.0"
+  }
+}
