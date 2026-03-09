@@ -1,17 +1,16 @@
-# Scratch Advanced Voice Chat
+# Scratch Massive Voice System
 
-Features:
-- WebRTC real-time voice
-- Push-to-talk
-- Proximity voice
-- Team voice channels
-- Auto join from Scratch cloud variables
+Features
+- 100+ player voice server
+- 3D spatial audio
+- proximity chat
+- push-to-talk
+- browser overlay
+- Scratch cloud variable integration
 
 Run:
 
 npm install
 node server/server.js
 
-Open:
-
-client/index.html
+Open overlay.html while playing the Scratch game.
